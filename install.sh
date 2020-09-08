@@ -16,3 +16,5 @@ sudo apt install redis-server
 #Change redis supervisord:no with systemd
 #sudo nano /etc/redis/redis.conf
 
+npm install pm2 -g
+
