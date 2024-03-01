@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-curl -sL https://deb.nodesource.com/setup_17.x | sudo bash -
+curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
 sudo apt -y install nodejs
 node  -v
 sudo apt -y install gcc g++ make
